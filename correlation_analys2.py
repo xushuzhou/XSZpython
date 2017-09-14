@@ -506,7 +506,7 @@ while(loop<=statistics_days):
 	  day_list.append([to_day,DayAgo])
 	  loop=loop+1
 #************统计时间计算*****************	  
-day_list=[['2017-06-30','2017-06-01']]
+#day_list=[['2017-06-30','2017-06-01']]
 #******************获取样本，并计算*****************
 for i in range(0,len(day_list)):
      item_rank={}
